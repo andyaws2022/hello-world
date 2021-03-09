@@ -1,3 +1,3 @@
 # hello-world
-first repo
-Not sure what I am doing but I am just doing what I need to do. 
+first repo has been changed
+Now i  kind of got a feel for this
